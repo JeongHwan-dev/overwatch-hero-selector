@@ -21,3 +21,7 @@
 **ETC**
 
 - ![GitHub_Pages](https://img.shields.io/badge/-GitHub_Pages-181717?&logo=github&logoColor=white)
+
+## 주요 페이지
+
+<img src="./images/selecting_page3.gif" />
